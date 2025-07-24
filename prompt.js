@@ -1,0 +1,1 @@
+module.exports = `Escreva um paragrafo coeso baseado no titulo fornecido. Use a palavra-chave de forma natural e contextual. Evite uso excessivo de negrito. Paragrafos curtos, diretos e escaneaveis. Torne o texto coeso mesmo sendo dividido em partes.`;
